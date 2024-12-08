@@ -50,8 +50,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   <strong>2. Configure Roles:</strong><br>
   - Click on the Agents tab and select Roles.<br>
   - For name, type Supreme Admin for the new role we'll be creating.<br>
-  - Before clicking on Add Role, click on the Permissions tab next to Definition.
-  - We are going to allow this role to have all permissions. To do so, select all available options under Tickets, Tasks and Knowledgebase. Each option should be checked.
+  - Before clicking on Add Role, click on the Permissions tab next to Definition.<br>
+  - We are going to allow this role to have all permissions. To do so, select all available options under Tickets, Tasks and Knowledgebase. Each option should be checked.<br>
   - Once all options have been checked, click on Add Role at the bottom.
 </p>
 
