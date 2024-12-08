@@ -47,7 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>2. Configure Roles:</strong><br>
+  <strong>2. Configure A New Role:</strong><br>
   - Click on the Agents tab and select Roles.<br>
   - For name, type Supreme Admin for the new role we'll be creating.<br>
   - Before clicking on Add Role, click on the Permissions tab next to Definition.<br>
@@ -66,7 +66,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>3. Access Control Panel:</strong><br>
+  <strong>3. Configure A New Department:</strong><br>
   - After connecting to your virtual machine, open the Control Panel.<br>
   - In the Control Panel, go to Programs and then click on Turn Windows features on or off.
 </p>
