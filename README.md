@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <strong>1. Log into osTicket as an Admin:</strong><br>
   - Start by visiting the Admin Login page: http://localhost/osTicket/scp/login.php<br>
   - Log in with Admin username and password.<br>
-  - Once logged in, click on Admin Panel at the top right.
+  - Once logged in, click on Admin Panel at the top right to see the backend configuration options.
 </p>
 
 <p>
