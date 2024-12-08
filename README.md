@@ -79,13 +79,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>4. Enable IIS and Required Features:</strong><br>
-  - In the Windows Features menu, navigate to World Wide Web Services.<br>
-  - Under Application Development Features, check the box for CGI and click OK.
+  <strong>4. Configure A New Team:</strong><br>
+  - Click on the Agents tab and select Teams.<br>
+  - Click on Add New Team.<br>
+  - For Name, type Online Banking for the new team we'll be creating.<br>
+  - Click on Create Team at the bottom.
 </p>
 
 <p>
-  <img src="https://i.imgur.com/MgzUhQp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/gWL043m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
