@@ -69,7 +69,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <strong>3. Configure A New Department:</strong><br>
   - Click on the Agents tab and select Departments.<br>
   - Click on Add New Department.<br>
-  - For Parent, select Support from the drop-down options.
+  - For Parent, select Support from the drop-down options.<br>
   - For Name, type SysAdmins for the new department we'll be creating.<br>
   - Click on Create Dept at the bottom.
 </p>
