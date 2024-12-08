@@ -32,14 +32,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-  <strong>1. Log into osTicket as Admin:</strong><br>
+  <strong>1. Log into osTicket as an Admin:</strong><br>
   - Start by visiting the Admin Login page: http://localhost/osTicket/scp/login.php<br>
   - Log in with Admin username and password.<br>
-  - Once logged in, click on Admin Panel at the top right
+  - Once logged in, click on Admin Panel at the top right.
 </p>
 
 <p>
   <img src="https://i.imgur.com/ZUIdwVY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+  <img src="https://i.imgur.com/2I3IW6Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
