@@ -49,7 +49,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   <strong>2. Configure A New Role:</strong><br>
   - Click on the Agents tab and select Roles.<br>
-  - For name, type Supreme Admin for the new role we'll be creating.<br>
+  - For Name, type Supreme Admin for the new role we'll be creating.<br>
   - Before clicking on Add Role, click on the Permissions tab next to Definition.<br>
   - We are going to allow this role to have all permissions. To do so, select all available options under Tickets, Tasks and Knowledgebase. Each option should be checked.<br>
   - Once all options have been checked, click on Add Role at the bottom.
@@ -67,12 +67,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
   <strong>3. Configure A New Department:</strong><br>
-  - After connecting to your virtual machine, open the Control Panel.<br>
-  - In the Control Panel, go to Programs and then click on Turn Windows features on or off.
+  - Click on the Agents tab and select Departments.<br>
+  - Click on Add New Department.<br>
+  - For Parent, select Support from the drop-down options.
+  - For Name, type SysAdmins for the new department we'll be creating.<br>
+  - Click on Create Dept at the bottom.
 </p>
 
 <p>
-  <img src="https://i.imgur.com/613NHYX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/jm5fOee.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
