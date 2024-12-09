@@ -113,13 +113,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>6. Install the PHP Manager:</strong><br>
-  - Download the PHP Manager from the installation files (PHPManagerForIIS_V1.5.0.msi).<br>
-  - Run the installer and follow the setup wizard to complete the installation.
+  <strong>6. Set Agent Password:</strong><br>
+  - Click on the Agents tab and select Agents.<br>
+  - Click on the Agent you just created.<br>
+  - On the Account tab, click on Set Password next to Username.<br>
+  - Uncheck the reset email option and enter a password for the agent.<br>
+  - Click Update at the bottom.
 </p>
 
 <p>
-  <img src="https://i.imgur.com/JMqjfT3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/4FD4ocp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
