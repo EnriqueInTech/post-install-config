@@ -94,6 +94,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <strong>5. Configure A New Agent:</strong><br>
   - Click on the Agents tab and select Agents.<br>
   - Click on Add New Agent.<br>
+  - On the Account tab, enter a name, email address and username.<br>
   - 
 </p>
 
