@@ -142,13 +142,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>8. Set Up PHP:</strong><br>
-  - Create a folder named PHP in the *C:* drive.<br>
-  - Extract PHP 7.3.8 from the installation files (php-7.3.8-nts-Win32-VC15-x866.zip) and select C:\PHP folder as the destination.
+  <strong>8. Configure Service Level Agreement (SLA):</strong><br>
+  - Click on the Admin Panel at the top right.<br>
+  - Click on the Manage tab and select SLA.<br>
+  - Click on Add New SLA Plan.<br>
 </p>
 
 <p>
-  <img src="https://i.imgur.com/XyuQhzY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/fZAXcCY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br>
