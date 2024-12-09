@@ -47,7 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>2. Configure A New Role:</strong><br>
+  <strong>2. Configure New Role:</strong><br>
   - Click on the Agents tab and select Roles.<br>
   - For Name, type Supreme Admin for the new role we'll be creating.<br>
   - Before clicking on Add Role, click on the Permissions tab next to Definition.<br>
@@ -66,7 +66,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>3. Configure A New Department:</strong><br>
+  <strong>3. Configure New Department:</strong><br>
   - Click on the Agents tab and select Departments.<br>
   - Click on Add New Department.<br>
   - For Parent, select Support from the drop-down options.<br>
@@ -79,7 +79,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>4. Configure A New Team:</strong><br>
+  <strong>4. Configure New Team:</strong><br>
   - Click on the Agents tab and select Teams.<br>
   - Click on Add New Team.<br>
   - For Name, type Online Banking for the new team we'll be creating.<br>
@@ -91,7 +91,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>5. Configure A New Agent:</strong><br>
+  <strong>5. Configure New Agent:</strong><br>
   - Click on the Agents tab and select Agents.<br>
   - Click on Add New Agent.<br>
   - On the Account tab, enter a name, email address and username.<br>
@@ -126,7 +126,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>7. Configure A New User:</strong><br>
+  <strong>7. Configure New User:</strong><br>
   - Click on Agent Panel at the top right.<br>
   - Click on the Users tab and select Add User.<br>
   - Enter an email address and full name.<br>
@@ -157,13 +157,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br>
 
 <p>
-  <strong>9. Install the Visual C++ Redistributable:</strong><br>
-  - Download the VC_redist.x86.exe from the installation files.<br>
-  - Run the installer and follow the setup wizard to complete the installation.
+  <strong>9. Configure Help Topic:</strong><br>
+  - In the Admin Panel, click on the Manage tab and select Help Topics.<br>
+  - Click on Add New Help Topic.<br>
+  - Enter a topic and select a parent topic from the drop-down options.<br>
+  - Click Add Topic at the bottom.
 </p>
 
 <p>
-  <img src="https://i.imgur.com/YjepQT2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/VlsOEbG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
