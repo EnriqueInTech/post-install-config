@@ -146,6 +146,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Click on the Admin Panel at the top right.<br>
   - Click on the Manage tab and select SLA.<br>
   - Click on Add New SLA Plan.<br>
+  - Enter a name, grace period and schedule.<br>
+  - Click Add Plan at the bottom.
 </p>
 
 <p>
