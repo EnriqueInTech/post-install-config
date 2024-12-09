@@ -92,7 +92,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
   <strong>5. Configure A New Agent:</strong><br>
-  - To confirm IIS is properly installed, open your web browser and type 127.0.0.1 in the address bar. You should see the default IIS landing page. This will confirm that the VM is now technically a web server.
+  - Click on the Agents tab and select Agents.<br>
+  - Click on Add New Agent.<br>
+  - 
 </p>
 
 <p>
