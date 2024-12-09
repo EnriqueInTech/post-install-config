@@ -128,7 +128,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   <strong>7. Configure A New User:</strong><br>
   - Click on Agent Panel at the top right.<br>
-  - Run the installer and follow the setup wizard to complete the installation.
+  - Click on the Users tab and select Add User.<br>
+  - Enter an email address and full name.<br>
+  - Click Add User at the bottom.
 </p>
 
 <p>
