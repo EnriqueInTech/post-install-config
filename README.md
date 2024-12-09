@@ -17,15 +17,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Admin Login
-- Create New Role
-- Create New Department
-- Create New Team
-- Create New Agent
-- Set Agent Password
-- Add New User
-- Configure SLA
-- Create Help Topics
+- Admin Login: Access the osTicket Admin Panel to begin configuration.
+- Create New Role: Set up a new role with full permissions for system administration.
+- Create New Department: Establish a department within the system for organizational structure.
+- Create New Team: Set up a new team within the department for specific functionality.
+- Create New Agent: Add a new agent with appropriate role, department, and team assignments.
+- Set Agent Password: Configure the password for the newly created agent.
+- Add New User: Set up a user account in the system.
+- Configure SLA: Define and implement Service Level Agreements (SLA) for ticket handling.
+- Create Help Topics: Define help topics to categorize and streamline support requests.
 
 <h2>Configuration Steps</h2>
 
