@@ -95,7 +95,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Click on the Agents tab and select Agents.<br>
   - Click on Add New Agent.<br>
   - On the Account tab, enter a name, email address and username.<br>
-  - 
+  - On the Access tab, select Support/SysAdmins as the department and select Supreme Admin as the role from the drop-down options.<br>
+  - On the Teams tab, select Online Banking as the team from the drop-down options.<br>
+  - Click on Create at the bottom.
 </p>
 
 <p>
