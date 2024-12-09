@@ -126,13 +126,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <strong>7. Install the Rewrite Module:</strong><br>
-  - Download the Rewrite Module from the installation files (rewrite_amd64_en-US.msi).<br>
+  <strong>7. Configure A New User:</strong><br>
+  - Click on Agent Panel at the top right.<br>
   - Run the installer and follow the setup wizard to complete the installation.
 </p>
 
 <p>
-  <img src="https://i.imgur.com/RKNutAX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/j1j34uv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+  <img src="https://i.imgur.com/x83qzwo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
