@@ -39,11 +39,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <img src="https://i.imgur.com/ZUIdwVY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/ZUIdwVY.jpeg"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-  <img src="https://i.imgur.com/2I3IW6Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/2I3IW6Q.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -58,11 +58,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br>
 
 <p>
-  <img src="https://i.imgur.com/C56v4Ud.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/C56v4Ud.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-  <img src="https://i.imgur.com/mA9GnpQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/mA9GnpQ.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -75,7 +75,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <img src="https://i.imgur.com/jm5fOee.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/jm5fOee.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -87,7 +87,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <img src="https://i.imgur.com/gWL043m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/gWL043m.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -101,15 +101,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <img src="https://i.imgur.com/9A23XY2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/9A23XY2.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-  <img src="https://i.imgur.com/ppycbCY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/ppycbCY.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-  <img src="https://i.imgur.com/o4hOJNZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/o4hOJNZ.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -122,7 +122,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <img src="https://i.imgur.com/4FD4ocp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/4FD4ocp.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -134,11 +134,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <img src="https://i.imgur.com/j1j34uv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/j1j34uv.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-  <img src="https://i.imgur.com/x83qzwo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/x83qzwo.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -151,7 +151,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <img src="https://i.imgur.com/fZAXcCY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/fZAXcCY.png"  alt="Disk Sanitization Steps"/>
 </p>
 
 <br>
@@ -165,5 +165,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-  <img src="https://i.imgur.com/VlsOEbG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/VlsOEbG.png"  alt="Disk Sanitization Steps"/>
 </p>
